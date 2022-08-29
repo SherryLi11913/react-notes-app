@@ -3,6 +3,11 @@
 ## Description
 This is a React project practice.
 
+## Key Points to Practice
+- State
+- `React.useEffect()`
+- Event listeners
+
 ## Starter Code
 [Notes App: Intro](https://scrimba.com/learn/learnreact/notes-app-intro-coea14f76b39cf1bfb7c86de4)
 
